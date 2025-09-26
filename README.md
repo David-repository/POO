@@ -1,30 +1,38 @@
-# Programa Concessionária - Trabalho N1(AT2)
+# 📚 Programação Orientada a Objetos (POO) - Atividades e Trabalhos
 
-Este projeto foi desenvolvido como parte da atividade **N1AT2**, da disciplina de Programação Orientada a Objetos.  
-O programa simula o sistema de uma concessionária, com controle de acesso por senha e menu interativo para operações básicas.
-
----
-
-## 📌 Funcionalidades
-- **Login com senha**  
-  O usuário só acessa o sistema após digitar a senha correta (123).  
-
-- **Menu principal**  
-  - `1 - Cadastro Cliente` → permite registrar nome, telefone e endereço.  
-  - `2 - Compra de Carro` → o usuário escolhe um modelo, cor e forma de pagamento.  
-  - `3 - Compra de Acessório` → permite escolher um acessório e a quantidade desejada.  
-  - `0 - Sair` → encerra o sistema.  
-
-- **Validação de entradas**  
-  O programa garante que apenas opções válidas sejam aceitas nos menus.
+Este repositório reúne as atividades práticas, exercícios e trabalhos desenvolvidos na disciplina **Programação Orientada a Objetos (POO)**.  
+O objetivo é centralizar o conteúdo, facilitar a organização e documentar a evolução dos estudos.
 
 ---
 
-## ▶️ Como executar
-1. Abra o projeto no seu editor Java (por exemplo: Eclipse ou IntelliJ).  
-2. Certifique-se de que o arquivo esteja no pacote `programaConcessionaria`.  
-3. Compile e execute a classe principal:
+## 🗂 Estrutura do Repositório
+- **/atividades** → exercícios e pequenas práticas da disciplina.  
+- **/trabalhos** → projetos maiores e entregas avaliativas.  
+- **README.md** → este arquivo de apresentação e documentação.  
 
-```bash
-javac programaConcessionaria/N1AT2.java
-java programaConcessionaria.N1AT2
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Java** ☕ – linguagem principal para implementação dos códigos.  
+- **Git/GitHub** – versionamento e compartilhamento dos trabalhos.  
+- *Eclipse IDE*
+
+---
+
+## 🎯 Objetivos de Aprendizado
+- Aplicar os **fundamentos de POO**: classes, objetos, encapsulamento, herança, polimorfismo e abstração.  
+- Resolver problemas através da modelagem orientada a objetos.  
+- Organizar código em projetos e boas práticas.  
+- Criar documentação básica para cada atividade.
+
+---
+
+## 👨‍💻 Autor
+**David Cordeiro Moura**  
+Disciplina: **Programação Orientada a Objetos (POO)**  
+Instituição: **UCB**  
+
+---
+
+## 📌 Observação
+Este repositório será atualizado ao longo da disciplina com novas atividades e trabalhos.  
